@@ -44,7 +44,7 @@ IPv4 Address: 192.168.x.x
 ```
 
 5. Connect from Phone
-- Ensure your iPhone is connected to the same Wi-Fi/hotspot as your PC.
+- Ensure your Phone is connected to the same Wi-Fi/hotspot as your PC.
 - Open Safari (or any browser).
 - Enter:
 ```
@@ -63,7 +63,7 @@ http://192.168.x.x:5000
 ✔ Documents
 ✔ Text files
 ✔ ZIPs
-✔ Anything (as long as your iPhone/browser allows upload)
+✔ Anything (as long as your Phone/browser allows upload)
 (Replace 192.168.x.x with your PC’s IPv4 address.)
 
 ⚡ Notes
